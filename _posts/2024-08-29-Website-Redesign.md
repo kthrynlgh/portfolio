@@ -4,7 +4,7 @@ title: "Website Re-design"
 author: "Kathryn Leigh Martinito"
 categories: documentation
 tags: [documentation,sample]
-image: data_talks_cover.jpg
+image: 
 ---
 
 # Website Re-design

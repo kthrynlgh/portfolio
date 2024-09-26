@@ -21,10 +21,10 @@ Step beyond the familiar, dive into the digital depths, and sync with a world wh
 ![count 1](https://github.com/user-attachments/assets/0d416f4c-9178-42a9-b44e-d6bb2131f01d)
 
 ### Dress Code
-<img width="1200" alt="dress code 1" src="https://github.com/user-attachments/assets/b6be36e9-47ea-4f64-93f5-98ac89a71d16">
-<img width="1200" alt="dress code 2" src="https://github.com/user-attachments/assets/94879d70-fc0a-434c-b845-686a165f2ab6">
-<img width="1200" alt="dress code 3" src="https://github.com/user-attachments/assets/fbf99190-4af0-4942-b43c-033e3dc94473">
-<img width="1200" alt="dress code 4" src="https://github.com/user-attachments/assets/0cc03553-e031-4e41-b0a6-1e65c61b12ee">
+<img width="600" alt="dress code 1" src="https://github.com/user-attachments/assets/b6be36e9-47ea-4f64-93f5-98ac89a71d16">
+<img width="500" alt="dress code 2" src="https://github.com/user-attachments/assets/94879d70-fc0a-434c-b845-686a165f2ab6">
+<img width="400" alt="dress code 3" src="https://github.com/user-attachments/assets/fbf99190-4af0-4942-b43c-033e3dc94473">
+<img width="300" alt="dress code 4" src="https://github.com/user-attachments/assets/0cc03553-e031-4e41-b0a6-1e65c61b12ee">
 
 ### Pin designs
 ![pin1](https://github.com/user-attachments/assets/0832ceae-4679-42c7-9d18-6aba7be917fb)

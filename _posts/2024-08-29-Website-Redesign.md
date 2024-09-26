@@ -4,7 +4,7 @@ title: "Website Re-design"
 author: "Kathryn Leigh Martinito"
 categories: documentation
 tags: [documentation,sample]
-image: 
+image: cover-websites.jpg
 ---
 
 # Website Re-design

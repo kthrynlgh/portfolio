@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Kathryn Leigh's Portfolio"
-description:	       "A collection of previous works."
+description:	       "A collection of previous works"
 author:              "Kathryn Leigh Martinito"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

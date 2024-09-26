@@ -6,11 +6,13 @@ tags: [documentation,sample]
 image: Facebook cover.png
 ---
 
-Step beyond the familiar, dive into the digital depths, and sync with a world where every byte has power and every line of code pulses with life. "DSYNC: Into the Cyber Realm" is an event hosted by the Guild of Junior Data Scientists. It is a general assembly of Data Science students from The University of Science and Technology of Southern Philippines.
+"DSYNC: Into the Cyber Realm" is an event hosted by the Guild of Junior Data Scientists. It is a general assembly of Data Science students from The University of Science and Technology of Southern Philippines.
+
+Step beyond the familiar, dive into the digital depths, and sync with a world where every byte has power and every line of code pulses with life. 
+
 
 ### Main Poster
-
-image: https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/poster.png
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/poster.png "DSYNC Main Poster")
 
 ### Countdown
 

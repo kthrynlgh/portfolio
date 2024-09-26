@@ -4,7 +4,7 @@ title: "Promotional Posters for Data Science"
 author: "Kathryn Leigh Martinito"
 categories: documentation
 tags: [documentation,sample]
-image: Poster mock-up.png
+image: Poster mock-up.jpg
 ---
 
 # Promotional Posters for Data Science

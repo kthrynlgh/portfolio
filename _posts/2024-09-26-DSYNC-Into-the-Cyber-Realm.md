@@ -4,7 +4,7 @@ title: "DSYNC: Into the Cyber Realm"
 author: "Kathryn Leigh Martinito"
 categories: documentation
 tags: [documentation,sample]
-image: ![Facebook cover](https://github.com/user-attachments/assets/b32e55e8-789d-4f15-bd0a-dcdbc7ab1811)
+image: Facebook cover.png
 ---
 
 "DSYNC: Into the Cyber Realm" is an event hosted by the Guild of Junior Data Scientists. It is a general assembly of Data Science students from The University of Science and Technology of Southern Philippines.

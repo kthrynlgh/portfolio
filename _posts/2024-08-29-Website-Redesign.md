@@ -1,4 +1,4 @@
-![Craigs](https://github.com/user-attachments/assets/76be5b1a-4ee6-42de-b8de-f7b81f725f4e)---
+---
 layout: post
 title: "Website Re-design"
 author: "Kathryn Leigh Martinito"

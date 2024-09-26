@@ -4,4 +4,6 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi, I’m Kathryn Leigh, a freelancer with a passion for crafting engaging, impactful experiences. I combine creativity with data-driven insights to deliver designs and strategies that resonate with diverse audiences. My journey has led me to explore the intersection of design thinking, art, and technology.
+
+Whether I’m designing eye-catching visuals, managing social media campaigns, or organizing community-driven events like 'Data Framed' and 'DSYNC,' I aim to push creative boundaries while delivering results. My portfolio reflects my love for both innovation and storytelling, and I’m constantly seeking new opportunities to grow, collaborate, and bring bold ideas to life.

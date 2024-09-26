@@ -4,7 +4,7 @@ title: "DataTalks: Communicating Data for the Future"
 author: "Kathryn Leigh Martinito"
 categories: documentation
 tags: [documentation,sample]
-image: data_talks_cover.jpg
+image: 
 ---
 
 # DataTalks: Communicating Data for the Future

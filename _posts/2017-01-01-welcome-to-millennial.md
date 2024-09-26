@@ -15,19 +15,17 @@ Step beyond the familiar, dive into the digital depths, and sync with a world wh
 ![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/poster.png "DSYNC Main Poster")
 
 ### Countdown
-
-image: https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/count%201.png
-image: count 2.png
-image: count 3.png
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/count%203.png "DSYNC Main Poster")
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/count%202.png "DSYNC Main Poster")
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/count%201.png "DSYNC Main Poster")
 
 ### Dress Code
-
-image: dress code 1.png
-image: dress code 2.png
-image: dress code 3.png
-image: dress code 4.png
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/dress%20code%201.png "DSYNC Main Poster")
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/dress%20code%202.png "DSYNC Main Poster")
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/dress%20code%203.png "DSYNC Main Poster")
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/dress%20code%204.png "DSYNC Main Poster")
 
 ### Pin designs
-image: pin.png
-image: pin1.png
-image: pin 1.png
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/pin.png "DSYNC Main Poster")
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/pin1.png "DSYNC Main Poster")
+![alt text](https://github.com/kthrynlgh/Portfolio/blob/gh-pages/assets/img/pin%201.png "DSYNC Main Poster")

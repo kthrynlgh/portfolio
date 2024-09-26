@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Thank you for visiting my portfolio! I’m always excited to collaborate, whether you’re looking for creative digital products, custom commissions, or just want to chat about upcoming projects. Feel free to reach out to me via email at kmartinito@gmail.com, follow and message me on social media @kthrynlgh, or connect with me on LinkedIn. Let’s create something amazing together!

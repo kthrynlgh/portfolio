@@ -4,7 +4,7 @@ title: "Alchemists: Transforming Data into Gold"
 author: "Kathryn Leigh Martinito"
 categories: documentation
 tags: [documentation,sample]
-image: 
+image: cover-rebrand.jpg
 ---
 
 # Alchemists: Transforming Data into Gold
